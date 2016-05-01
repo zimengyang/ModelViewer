@@ -1,0 +1,15 @@
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\Common.Libs.Image.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\Common.Libs.Matrix.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\Common.Libs.MiscFunctions.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\Common.Libs.ParallelFunctions.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\Common.Libs.Vmath.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\libalglib.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\OpenTK.Compatibility.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\OpenTK.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\OpenTK.GLControl.dll
+C:\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
